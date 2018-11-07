@@ -1,0 +1,7 @@
+{
+  "name": "Jump",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
